@@ -25,7 +25,7 @@ Gehe sicher, dass alles gelöscht ist.
 
 ---
 
-### Aufgabe 1: Docker-Images vergleichen
+### Aufgabe 2: Docker-Images vergleichen
 
 #### Schritt 1: Docker-Images herunterladen
 
