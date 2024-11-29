@@ -109,3 +109,9 @@ Erstellen und betreiben einer einfachen Node.js-Web-App in Docker.
 3. Gehe zu `http://localhost:3000` im Browser, um die Web-App zu sehen.
 
 **Abgabe**: Screenshot der laufenden App im Browser. 
+
+---
+
+## Aufgabe 4: Code ausprobieren und beschreiben
+
+Schaut euch den Code im Ordner `zweites_image` an. Probiert ihn aus, indem ihr ein Image aus der Dockerfile erstellt und beschreibt, was in der Dockerfile passiert.
