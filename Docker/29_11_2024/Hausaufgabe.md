@@ -74,7 +74,7 @@ Rufe nun `http://localhost:8080` in deinem Webbrowser auf.
 
 ---
 
-### Aufgabe 2: Eine einfache Web-App mit Docker betreiben
+### Aufgabe 3: Eine einfache Web-App mit Docker betreiben
 
 ### Ziel:
 Erstellen und betreiben einer einfachen Node.js-Web-App in Docker.
