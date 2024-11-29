@@ -62,6 +62,7 @@ Erstellen und betreiben einer einfachen Node.js-Web-App in Docker.
    const http = require('express');
    const port = 3000;
 
+   const app = express();
    app.get('/', (req, res) => {
       res.send('Hello World!');
    });
