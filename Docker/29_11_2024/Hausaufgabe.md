@@ -45,34 +45,7 @@ Die beiden Images enthalten eine einfache Webanwendung, die eine Willkommensnach
 
 **Abgabe**: Screenshot des Terminals, auf dem man die Größe der beiden Images sieht.
 
-#### Schritt 3: Container starten und testen
 
-Starte die Container und prüfe, ob die Anwendungen wie erwartet funktionieren.
-
-**Für das Ubuntu-Image:**
-```bash
-docker run -it devopsdockeruh/simple-web-service:ubuntu bash
-```
-Im Container kannst du die Anwendung aufrufen, indem du die IP-Adresse des Containers und den Port verwendest. Dies könnte zum Beispiel so aussehen:
-```bash
-curl http://localhost:8080
-```
-
-**Für das Alpine-Image:**
-Da Alpine standardmäßig keine Bash-Shell hat, verwendest du `sh`:
-
-Auch hier kannst du die Webanwendung testen:
-```bash
-curl http://localhost:8080
-```
-
-**Abgabe**: Screenshots der beiden Willkommensnachrichten.
-
-Rufe nun `http://localhost:8080` in deinem Webbrowser auf.
-
-**Abgabe**: Screenshots einer Willkommensnachricht im Browser.
-
----
 
 ### Aufgabe 3: Eine einfache Web-App mit Docker betreiben
 
