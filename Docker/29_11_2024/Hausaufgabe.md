@@ -8,7 +8,7 @@ Gebe Screenshots für die Stellen ab, an denen **Abgabe** steht.
 
 #### 1. Nach einem Image suchen
 
-- Suche über den Befehl `docker search` nach dem Image von `ubuntu`.
+- Suche über den Befehl `docker search` nach dem Image von `nginx`.
 - Ziehe dir nun das offizielle Image.
 
 Starte drei Container dieses Images.
@@ -33,7 +33,7 @@ Gehe sicher, dass alles gelöscht ist.
 
 Die beiden Images heißen:  
 - `devopsdockeruh/simple-web-service:ubuntu`  
-- `simple-web-service:alpine`  
+- `devopsdockeruh/simple-web-service:alpine`  
 
 Die beiden Images enthalten eine einfache Webanwendung, die eine Willkommensnachricht ausgibt.
 
